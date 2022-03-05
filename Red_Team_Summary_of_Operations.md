@@ -1,11 +1,11 @@
 ### Red Team: Summary of Operations
 
- Table of Contents
+#Table of Contents
 - Exposed Services
 - Critical Vulnerabilities
 - Exploitation
 
-###Exposed Services
+# Exposed Services
 
 Nmap scan results for each machine reveal the below services and OS details.
 - $ nmap -sV 192.168.1.110
@@ -53,14 +53,13 @@ The following vulnerabilities were identified on each target:
 
 
 
-###Exploitation
+# Exploitation
 
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
  - Target 1
 
  - `flag1.txt`: b9bbcb33e11b80be759c4e84486242d
-"C:\Users\corte\Pictures\Flag1_Project3.jpg"
-
+![image](C:\Users\corte\Pictures\Flag1_Project3.jpg)
 
 
 
@@ -75,11 +74,11 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 
 
  `flag2.txt`: fc3fd58dcdad9ab23faca6e9a36e581c
-"C:\Users\corte\Pictures\Flag2_Project3.jpg"
+![image](C:\Users\corte\Pictures\Flag2_Project3.jpg)
 
 
-###Exploit Used
+# Exploit Used
 
- Accessed Michael’s server by using SSH with his IP address and password:
-ssh michael@192.168.1.110  password: ‘michael’
+ - Accessed Michael’s server by using SSH with his IP address and password:
+	ssh michael@192.168.1.110  password: ‘michael’
 
