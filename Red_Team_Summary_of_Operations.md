@@ -1,6 +1,6 @@
-### Red Team: Summary of Operations
+# Red Team: Summary of Operations
 
-#Table of Contents
+### Table of Contents
 - Exposed Services
 - Critical Vulnerabilities
 - Exploitation
@@ -59,7 +59,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
  - Target 1
 
  - `flag1.txt`: b9bbcb33e11b80be759c4e84486242d
-![image](C:\Users\corte\Pictures\Flag1_Project3.jpg)
+![image](C:\Users\corte\Pictures\Flag1_Project3.png)
 
 
 
@@ -74,11 +74,11 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 
 
  `flag2.txt`: fc3fd58dcdad9ab23faca6e9a36e581c
-![image](C:\Users\corte\Pictures\Flag2_Project3.jpg)
+![image](C:\Users\corte\Pictures\Flag2_Project3.png)
 
 
-# Exploit Used
+### Exploit Used
 
  - Accessed Michael’s server by using SSH with his IP address and password:
-	ssh michael@192.168.1.110  password: ‘michael’
+	 - ssh michael@192.168.1.110  password: ‘michael’
 
