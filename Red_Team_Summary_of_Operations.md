@@ -77,7 +77,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 
 
 
-	 - `flag2.txt`: fc3fd58dcdad9ab23faca6e9a36e581c
+	- `flag2.txt`: fc3fd58dcdad9ab23faca6e9a36e581c
 
 ![image](Pictures\Flag2_Project3.png)
 
