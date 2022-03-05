@@ -57,13 +57,9 @@ WHEN count() GROUPED OVER top 5 ‘http.response.status_code’
   - Threshold: 
 Above 400
 
-  - Vulnerability Mitigated: 
-Enumeration/Brute Force
 
  - Reliability: 
    This alert is highly reliable. Measuring by error codes 400 and above will filter out normal or successful responses. High events within the 5 minutes will trigger the alert.
-
-
 
 
 Alert 2 is implemented as follows:
