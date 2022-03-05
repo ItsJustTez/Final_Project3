@@ -58,11 +58,9 @@ The following vulnerabilities were identified on each target:
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
  - Target 1
 
- 	- `flag1.txt`: b9bbcb33e11b80be759c4e84486242d
+	- `flag1.txt`: b9bbcb33e11b80be759c4e84486242d
 
-![image](C:\Users\corte\Pictures\Flag1_Project3.png)
-
-
+![image](Pictures\Flag1_Project3.png)
 
 
 
@@ -74,9 +72,14 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 
 
 
-	-  `flag2.txt`: fc3fd58dcdad9ab23faca6e9a36e581c
 
-![image](C:\Users\corte\Pictures\Flag2_Project3.png)
+
+
+
+
+	 - `flag2.txt`: fc3fd58dcdad9ab23faca6e9a36e581c
+
+![image](Pictures\Flag2_Project3.png)
 
 
 ### Exploit Used
